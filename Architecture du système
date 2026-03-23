@@ -1,0 +1,110 @@
+Vue d’ensemble
+
+TechNews365 OS Admin Edition repose sur une architecture modulaire pensée pour :
+
+    la stabilité
+
+    la reproductibilité
+
+    l’administration système
+
+    l’intégration d’une IA locale
+
+    un workflow ISO automatisé
+
+Elle s’articule autour de quatre couches principales : Base système, Environnement Admin, IA locale, et Automatisation.
+🖥️ Schéma d’architecture (ASCII)
+Code
+
+                   ┌──────────────────────────────────────────┐
+                   │          TechNews365 OS Admin Edition     │
+                   └──────────────────────────────────────────┘
+                                   ▲
+                                   │
+        ┌──────────────────────────────────────────────────────────────┐
+        │                     Automatisation & Workflow                 │
+        │  - Scripts post-install                                       │
+        │  - Branding automatique                                       │
+        │  - Pipeline ISO (build.sh / cleanup.sh)                       │
+        └──────────────────────────────────────────────────────────────┘
+                                   ▲
+                                   │
+        ┌──────────────────────────────────────────────────────────────┐
+        │                         IA Locale                            │
+        │  - Ollama (modèles locaux)                                   │
+        │  - OpenWebUI                                                 │
+        │  - Intégration système (services, API locale)                │
+        └──────────────────────────────────────────────────────────────┘
+                                   ▲
+                                   │
+        ┌──────────────────────────────────────────────────────────────┐
+        │                 Environnement Administrateur                 │
+        │  - Outils réseau (nmap, traceroute, net-tools…)              │
+        │  - Monitoring (htop, btop, glances)                          │
+        │  - Virtualisation (QEMU, virt-manager)                       │
+        │  - Sécurité (fail2ban, ufw, auditd)                          │
+        │  - Gestion système (timeshift, rsync, systemd tools)         │
+        └──────────────────────────────────────────────────────────────┘
+                                   ▲
+                                   │
+        ┌──────────────────────────────────────────────────────────────┐
+        │                         Base Système                         │
+        │  - Arch Linux                                                │
+        │  - Kernel optimisé                                           │
+        │  - GRUB configuré & thème TechNews365                        │
+        │  - Partitionnement avancé                                    │
+        └──────────────────────────────────────────────────────────────┘
+
+🔹 Description des couches
+1. Base Système
+
+    Arch Linux
+
+    Kernel optimisé
+
+    GRUB custom TechNews365
+
+    Support multiboot
+
+    Partitionnement avancé (EFI, BTRFS, subvolumes optionnels)
+
+2. Environnement Administrateur
+
+Suite d’outils préinstallés pour les pros :
+
+    Réseau : nmap, netcat, iproute2, wireshark
+
+    Monitoring : htop, btop, glances
+
+    Virtualisation : qemu, virt-manager
+
+    Sécurité : fail2ban, ufw, auditd
+
+    Gestion système : rsync, timeshift, systemd-analyze
+
+3. IA Locale
+
+    Ollama (modèles locaux, offline)
+
+    OpenWebUI (interface web locale)
+
+    Services systemd intégrés
+
+    Optimisation CPU/GPU selon la machine
+
+    Intégration dans l’environnement Admin
+
+4. Automatisation & Workflow
+
+    Scripts post-install
+
+    Branding automatique
+
+    Nettoyage du système avant build
+
+    Pipeline ISO reproductible
+
+    Structure GitHub + SourceForge
+
+    Documentation intégrée
+
