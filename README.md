@@ -46,7 +46,9 @@ Elle intègre un environnement optimisé pour les administrateurs systèmes, ave
     Documentation complète
 
 📁 Arborescence du projet
-Code
+## 📁 Arborescence du projet
+
+```
 technews365OS/
   iso/
     build.sh
@@ -74,6 +76,7 @@ technews365OS/
   LICENSE
   README.md
   .gitignore
+```
 
 
 🚀 Build de l’ISO
