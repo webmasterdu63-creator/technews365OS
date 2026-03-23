@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="BANNIERE_TECHNEWS365_OS.png" alt="TechNews365 OS Banner">
+</p>
+
+<p align="center">
 
   <!-- Version -->
   <img src="https://img.shields.io/github/v/release/webmasterdu63-creator/technews365OS?label=Version&color=blue" />
