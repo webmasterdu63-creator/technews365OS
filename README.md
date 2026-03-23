@@ -1,11 +1,45 @@
 <p align="center">
+
+  <!-- Version -->
   <img src="https://img.shields.io/github/v/release/webmasterdu63-creator/technews365OS?label=Version&color=blue" />
+
+  <!-- License -->
   <img src="https://img.shields.io/github/license/webmasterdu63-creator/technews365OS?label=License&color=green" />
+
+  <!-- Downloads -->
   <img src="https://img.shields.io/github/downloads/webmasterdu63-creator/technews365OS/total?label=Downloads&color=orange" />
-  <img src="https://img.shields.io/github/stars/webmasterdu63-creator/technews365OS?style=flat&color=yellow" />
-  <img src="https://img.shields.io/github/forks/webmasterdu63-creator/technews365OS?style=flat&color=lightgrey" />
+
+  <!-- Build Status -->
   <img src="https://img.shields.io/github/actions/workflow/status/webmasterdu63-creator/technews365OS/build-iso.yml?label=Build%20ISO&color=purple" />
+
+  <!-- Dernier commit -->
+  <img src="https://img.shields.io/github/last-commit/webmasterdu63-creator/technews365OS?label=Dernier%20commit&color=red" />
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/webmasterdu63-creator/technews365OS?style=flat&color=yellow" />
+
+  <!-- Forks -->
+  <img src="https://img.shields.io/github/forks/webmasterdu63-creator/technews365OS?style=flat&color=lightgrey" />
+
+  <!-- Plateformes supportées -->
+  <img src="https://img.shields.io/badge/Plateformes-Linux%20%7C%20Arch%20%7C%20x86__64-blue?style=flat" />
+
+  <!-- IA locale -->
+  <img src="https://img.shields.io/badge/IA%20Locale-Ollama%20%7C%20OpenWebUI-9cf?style=flat" />
+
+  <!-- Taille ISO -->
+  <img src="https://img.shields.io/badge/Taille%20ISO-10GB-brightgreen?style=flat" />
+
+  <!-- Mainteneur -->
+  <img src="https://img.shields.io/badge/Mainteneur-Jean%20(TechNews365)-blueviolet?style=flat" />
+
+  <!-- Site Web -->
+  <a href="https://technews365.fr">
+    <img src="https://img.shields.io/badge/Site-TechNews365.fr-0A66C2?style=flat" />
+  </a>
+
 </p>
+
 
 Une distribution Linux premium, stable, documentée et pensée pour les administrateurs systèmes modernes.
 
