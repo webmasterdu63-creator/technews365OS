@@ -37,6 +37,8 @@
   <a href="https://technews365.fr">
     <img src="https://img.shields.io/badge/Site-TechNews365.fr-0A66C2?style=flat" />
   </a>
+  <!-- Made in France -->
+  <img src="https://img.shields.io/badge/Made%20in-France-blue?style=flat&logoColor=white&labelColor=red&color=blue" />
 
 </p>
 
