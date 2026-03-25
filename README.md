@@ -2,9 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/webmasterdu63-creator/Technews365-OS/main/banner.png" alt="TechNews365 OS Banner" width="100%">
 </p>
-
 <p align="center">
-
   <!-- Version -->
   <img src="https://img.shields.io/github/v/release/webmasterdu63-creator/technews365OS?label=Version&color=blue" />
 
