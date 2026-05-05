@@ -244,3 +244,9 @@ Ce projet est sous licence GPL-3.0.
 🟦 TechNews365 — L’OS premium pour les pros
 
 TechNews365 OS est pensé pour les administrateurs, les passionnés, et tous ceux qui veulent un système propre, stable, documenté et puissant.
+
+## 🆘 Support
+Pour toute question, suggestion ou demande d’aide concernant TechNews365 OS,
+vous pouvez me contacter via la page officielle :
+
+👉 https://technews365.fr/contact
